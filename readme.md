@@ -12,4 +12,4 @@ A collection of things I have learned. This is a note for my future self. Heavil
 
 ### Express
 
-- [How middleware processed](/express/how-middleware-processed.md)
+- [How middleware processed](/express/middleware-run-sequence.md)
