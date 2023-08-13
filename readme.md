@@ -8,4 +8,8 @@ A collection of things I have learned. This is a note for my future self. Heavil
 
 ### Category
 
+- [Express](#express)
+
 ### Express
+
+- [How middleware processed](/express/how-middleware-processed.md)
