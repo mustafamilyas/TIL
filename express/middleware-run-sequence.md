@@ -1,6 +1,6 @@
 # Middleware Run Sequence
 
-Middleware is processed from left to right. Take a look at this code.
+Middleware is processed in order from left to right. Take a look at this code.
 
 ```javascript
 const middleware1 = (req, res, next) => {
