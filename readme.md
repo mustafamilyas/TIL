@@ -12,8 +12,13 @@ Current streak : 3
 
 ### Category
 
+- [D3.js](#d3js)
 - [Express](#express)
 - [Typescript](#typescript)
+
+### D3.js
+
+- [Add zoom & pan functionality](/d3/add-zoom-and-pan.md)
 
 ### Express
 
