@@ -19,7 +19,8 @@ Current streak : 3
 
 - [Error: ERR_HTTP_HEADERS_SENT](/express/err-http-headers-sent.md)
 - [How middleware processed](/express/middleware-run-sequence.md)
+- [Useful express-related npm module](/express/useful-express-related-module.md)
 
 ### Typescript
 
-- [Create is"Interface" Function Using Type Predicate](/typescript/create-is-interface-function.md)
+- [Create is"Interface" function using type predicate](/typescript/create-is-interface-function.md)
