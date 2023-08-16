@@ -6,7 +6,7 @@ A collection of things I have learned everyday. This is a note for my future sel
 
 You can read my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 3
+Current streak : 4
 
 ---
 
@@ -29,3 +29,4 @@ Current streak : 3
 ### Typescript
 
 - [Create is"Interface" function using type predicate](/typescript/create-is-interface-function.md)
+- [Possible error causes when creating discriminated union type](/typescript/discriminated-union-type-error.md)

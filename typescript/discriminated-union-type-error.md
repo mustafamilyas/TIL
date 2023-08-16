@@ -1,9 +1,9 @@
-# Discriminated Union Type Error
+# Possible Error Causes When Creating Discriminated Union Type
 
-when our typing rely on discriminated union, we might face some errors. Here are several cause of them:
+when our typing relies on discriminated unions, we might face some errors. Here are several causes of them:
 
 1. Duplicate discriminator
-   when we implement discriminated union, usually we have an attribute that differentiate between each typing. For example:
+   When we implement discriminated union, usually we have an attribute that differentiates between each typing. For example:
 
    ```typescript
    interface Circle {
@@ -25,7 +25,7 @@ when our typing rely on discriminated union, we might face some errors. Here are
    type Shape = Circle | Rectangle | Square;
    ```
 
-   At the code above, the discriminator is `type` attribute. We must assign **unique** discriminator. This is easy to see when we have a small set of discriminator, but as the codebase grows large, we might miss some duplicate discriminator. Take a look at code below.
+   In the code above, the discriminator is the `type` attribute. We must assign a **unique** discriminator. This is easy to see when we have a small set of discriminators, but as the codebase grows large, we might miss some duplicate discriminators. Take a look at the code below.
 
    ```typescript
    export interface GeneralSurveyResponseContentProps
@@ -37,7 +37,7 @@ when our typing rely on discriminated union, we might face some errors. Here are
        | QuestionType.SINGLE_TEXT
        | QuestionType.PARAGRAPH
        | QuestionType.MULTIPLE_CHOICE
-       | QuestionType.FILE_UPLOAD // this is duplicate
+       | QuestionType.FILE_UPLOAD //This is duplicate
        | QuestionType.DATE
        | QuestionType.NUMBER;
      value: Value[];
@@ -51,7 +51,7 @@ when our typing rely on discriminated union, we might face some errors. Here are
    ```
 
 2. General discriminator
-   Sometime we want to have a fallback type, especially when we want to have a general functionality for other unhandled type. We might do something like this.
+   Sometimes we want to have a fallback type, especially when we want to have a general functionality for other unhandled types. We might do something like this.
 
    ```typescript
    interface Other {
