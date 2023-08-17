@@ -6,7 +6,7 @@ A collection of things I have learned everyday. This is a note for my future sel
 
 You can read my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 4
+Current streak : 5
 
 ---
 
@@ -14,6 +14,7 @@ Current streak : 4
 
 - [D3.js](#d3js)
 - [Express](#express)
+- [Parcel](#parcel)
 - [Typescript](#typescript)
 
 ### D3.js
@@ -25,6 +26,10 @@ Current streak : 4
 - [Error: ERR_HTTP_HEADERS_SENT](/express/err-http-headers-sent.md)
 - [How middleware processed](/express/middleware-run-sequence.md)
 - [Useful express-related npm module](/express/useful-express-related-module.md)
+
+### Parcel
+
+- [Enabling Minification for Library Targets](/parcel/enable-minification-on-library-target.md)
 
 ### Typescript
 
