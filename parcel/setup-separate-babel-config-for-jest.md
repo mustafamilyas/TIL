@@ -1,7 +1,5 @@
 # Configuring Separate Babel Configuration for Jest Environment
 
-In the past, the [Parcel compiler relied on Babel](https://parceljs.org/blog/beta3/#10x-faster-javascript-compiler-written-in-rust-%F0%9F%9A%80) for its operation. However, due to Babel being relatively slow in today's standards, as it's implemented in JavaScript, Parcel version 2 took a different approach. The compiler was redeveloped in Rust, utilizing [SWC](https://swc.rs/), resulting in significantly improved speed.
-
 When it comes to configuring [Jest](https://jestjs.io/docs/getting-started#using-babel), it's customary to set up the Babel configuration in the `babel.config.js` file. However, doing so might trigger a warning like the one below:
 
 ```javascript
@@ -25,7 +23,7 @@ significantly improve build performance.
   📝 Learn more: https://parceljs.org/languages/javascript/#default-presets
 ```
 
-This is because Parcel already integrates similar presets, and adding the code above could potentially impact performance. However, it's necessary to retain this preset for Jest to function properly, making its removal impossible.
+This is because Parcel already [integrates similar presets](https://parceljs.org/languages/javascript/#babel:~:text=Default-,presets,-%23), and adding the code above could potentially impact performance. However, it's necessary to retain this preset for Jest to function properly, making its removal impossible.
 
 One potential solution involves renaming the `babel.config.js` file to `babel.test.config.js`. Following this, the configuration can be included in the `jest.config.js` file, as shown below:
 
