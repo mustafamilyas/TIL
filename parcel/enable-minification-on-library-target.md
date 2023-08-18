@@ -1,6 +1,6 @@
 # Enabling Minification for Library Targets
 
-By default, Parcel enables [minification](https://parceljs.org/features/targets/#optimize:~:text=optimize-,%23,-Enables%20or%20disables). However, if you include `main`, `module`, `browser`, and `types` fields in your `package.json` file, Parcel assumes that you are constructing a library and will deactivate the minification.
+By default, Parcel enables [minification](https://parceljs.org/features/targets/#optimize:~:text=optimize-,%23,-Enables%20or%20disables). However, if you include `main`, `module`, `browser`, and `types` fields in your `package.json` file, Parcel assumes that you are constructing a library and will **deactivate** the minification.
 
 ```json
 // package.json
