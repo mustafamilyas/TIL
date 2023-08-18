@@ -1,10 +1,8 @@
-# TIL
+# Today I Learned
 
-> Today I Learned
+Gathering the insights I acquire each day. Personally, this serves as a memo for my future self; however, I hope you can also derive value from it. Certain insights will be transformed into published articles, some of which might already be available. This initiative draws significant inspiration from [this repository of Today I Learned](https://github.com/jbranchaud/til).
 
-A collection of things I have learned everyday. This is a note for my future self. Some will be published (or already) into articles. Heavily inspired by [this TIL repository](https://github.com/jbranchaud/til).
-
-You can read my published articles [here](https://dev.to/mustafamilyas).
+Feel free to explore my published compositions [here](https://dev.to/mustafamilyas).
 
 Current streak : 5
 
