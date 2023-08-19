@@ -50,7 +50,7 @@
 
 Take a look at [codepen above](https://codepen.io/redmaze/pen/ZEVEVVx). Between two adjacent block elements, the margin is collapsed. The margin is calculated as `50px` instead of `70px` (the maximum between collapsed margin).
 
-But if we set the container as `grid` or `flex`. There is no margin collapse. And it doesn't affect the `gap` style. So the final margin calculated above is `20px` (margin-bottom of class blue) + `10px` (margin-top of class red) + `50px` (gap size of container) = `80px` (final margin).
+But if we set the container as `grid` or `flex`. There is no margin collapse. And it doesn't affect the `gap` style. So the final margin calculated above is `20px` (margin-bottom of class blue) + `10px` (margin-top of class red) + `50px` (gap size of container) = `80px` (final margin, yellow colored).
 
 ### Further Reading
 
