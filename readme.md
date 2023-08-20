@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 6
+Current streak : 7
 
 ---
 
@@ -19,6 +19,7 @@ Current streak : 6
 ### CSS
 
 - [Margin Collapse on Flex & Grid Elements](/css/margin-collapse-flex-grid.md)
+- [Summary of Margin Collapse Cases](/css/summary-margin-collapse.md)
 
 ### D3.js
 
