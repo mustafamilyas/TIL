@@ -1,4 +1,4 @@
-# Fix Subpixel Rendering Using JS
+# [DRAFT] Fix Subpixel Rendering Using JS
 
 ### Problem
 

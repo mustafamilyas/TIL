@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 8
+Current streak : 9
 
 ---
 
@@ -21,6 +21,7 @@ Current streak : 8
 
 - [Margin Collapse on Flex & Grid Elements](/css/margin-collapse-flex-grid.md)
 - [Summary of Margin Collapse Cases](/css/summary-margin-collapse.md)
+- [Title Attribute Behavior](/css/title-attribute.md)
 
 ### D3.js
 
