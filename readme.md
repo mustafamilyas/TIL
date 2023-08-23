@@ -19,6 +19,7 @@ Current streak : 9
 
 ### CSS
 
+- [Flex and Auto Values in Grid Layout](/css/flex-and-auto-value-on-grid.md)
 - [Margin Collapse on Flex & Grid Elements](/css/margin-collapse-flex-grid.md)
 - [Summary of Margin Collapse Cases](/css/summary-margin-collapse.md)
 - [Title Attribute Behavior](/css/title-attribute.md)
