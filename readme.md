@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 11
+Current streak : 12
 
 ---
 
@@ -13,6 +13,7 @@ Current streak : 11
 - [CSS](#css)
 - [D3.js](#d3js)
 - [Express](#express)
+- [HTML](#html)
 - [NPM](#npm)
 - [Parcel](#parcel)
 - [Typescript](#typescript)
@@ -34,9 +35,13 @@ Current streak : 11
 - [How middleware processed](/express/middleware-run-sequence.md)
 - [Useful express-related npm module](/express/useful-express-related-module.md)
 
+### HTML
+
+- [Problem with Using the Anchor Tag's Download Attribute Across Different Origins](/html/can-t-use-anchor-tag-download-attribute-for-different-origin.md)
+
 ### NPM
 
-- [Prevent Accidentally Publishing Repository](/npm/prevent-npm-to-publish-repository.md)
+- [Prevent Accidentally Publishing Private Repository](/npm/prevent-npm-to-publish-repository.md)
 
 ### Parcel
 
