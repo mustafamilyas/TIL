@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 12
+Current streak : 14
 
 ---
 
@@ -27,6 +27,7 @@ Current streak : 12
 
 ### D3.js
 
+- [Selection](/d3/selection.md)
 - [Add zoom & pan functionality](/d3/add-zoom-and-pan.md)
 
 ### Express
