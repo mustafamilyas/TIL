@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 14
+Current streak : 15
 
 ---
 
@@ -20,6 +20,7 @@ Current streak : 14
 
 ### CSS
 
+- [Accent Color on Input](/css/accent-color-on-input.md)
 - [Flex and Auto Values in Grid Layout](/css/flex-and-auto-value-on-grid.md)
 - [Margin Collapse on Flex & Grid Elements](/css/margin-collapse-flex-grid.md)
 - [Summary of Margin Collapse Cases](/css/summary-margin-collapse.md)
@@ -34,7 +35,6 @@ Current streak : 14
 
 - [Error: ERR_HTTP_HEADERS_SENT](/express/err-http-headers-sent.md)
 - [How middleware processed](/express/middleware-run-sequence.md)
-- [Useful express-related npm module](/express/useful-express-related-module.md)
 
 ### HTML
 
