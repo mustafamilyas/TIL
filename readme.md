@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 15
+Current streak : 16
 
 ---
 
@@ -23,6 +23,7 @@ Current streak : 15
 - [Accent Color on Input](/css/accent-color-on-input.md)
 - [Flex and Auto Values in Grid Layout](/css/flex-and-auto-value-on-grid.md)
 - [Margin Collapse on Flex & Grid Elements](/css/margin-collapse-flex-grid.md)
+- [Overriding The Default Selection Behavior Using CSS](/css/overriding-the-default-selection-behavior-with-css.md)
 - [Summary of Margin Collapse Cases](/css/summary-margin-collapse.md)
 - [Title Attribute Behavior](/css/title-attribute.md)
 
