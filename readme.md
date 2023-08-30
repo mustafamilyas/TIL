@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 17
+Current streak : 18
 
 ---
 
@@ -17,6 +17,7 @@ Current streak : 17
 - [NPM](#npm)
 - [Parcel](#parcel)
 - [React](#react)
+- [Remix](#remix)
 - [Typescript](#typescript)
 
 ### CSS
@@ -54,6 +55,10 @@ Current streak : 17
 ### React
 
 - [Get Component Props Type](/react/get-component-props-type.md)
+
+### Remix
+
+- [Loading Data Using "loader" & "useLoaderData"](/remix/loading-data.md)
 
 ### Typescript
 
