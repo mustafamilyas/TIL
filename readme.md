@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 16
+Current streak : 17
 
 ---
 
@@ -16,6 +16,7 @@ Current streak : 16
 - [HTML](#html)
 - [NPM](#npm)
 - [Parcel](#parcel)
+- [React](#react)
 - [Typescript](#typescript)
 
 ### CSS
@@ -49,6 +50,10 @@ Current streak : 16
 
 - [Configuring Separate Babel Configuration for Jest Environment](/parcel/setup-separate-babel-config-for-jest.md)
 - [Enabling Minification for Library Targets](/parcel/enable-minification-on-library-target.md)
+
+### React
+
+- [Get Component Props Type](/react/get-component-props-type.md)
 
 ### Typescript
 
