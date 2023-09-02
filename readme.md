@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 18
+Current streak : 19
 
 ---
 
@@ -64,5 +64,6 @@ Current streak : 18
 
 - [Create is"Interface" function using type predicate](/typescript/create-is-interface-function.md)
 - [Creating a Type with a Generic Return Type from a Generic Function](/typescript/create-type-generic-return-type.md)
+- [Extending Multiple Interfaces or Types with Similar Attributes](/typescript/extending-multiple-interface-or-type-with-similar-attribute.md)
 - [Infer Keyword](/typescript/infer-keyword.md)
 - [Possible error causes when creating discriminated union type](/typescript/discriminated-union-type-error.md)
