@@ -4,7 +4,12 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 19
+Current streak : 20
+
+---
+
+**Notes**:
+The file with the "\_" prefix means, it is a work in progress.
 
 ---
 
