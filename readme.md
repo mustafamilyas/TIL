@@ -69,6 +69,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 - [Create is"Interface" function using type predicate](/typescript/create-is-interface-function.md)
 - [Creating a Type with a Generic Return Type from a Generic Function](/typescript/create-type-generic-return-type.md)
+- [Difference between `interface` and `type`](/typescript/difference-of-interface-and-type.md)
 - [Extending Multiple Interfaces or Types with Similar Attributes](/typescript/extending-multiple-interface-or-type-with-similar-attribute.md)
 - [Infer Keyword](/typescript/infer-keyword.md)
 - [Possible error causes when creating discriminated union type](/typescript/discriminated-union-type-error.md)
