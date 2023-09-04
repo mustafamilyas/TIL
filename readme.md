@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 20
+Current streak : 21
 
 ---
 
@@ -23,6 +23,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Parcel](#parcel)
 - [React](#react)
 - [Remix](#remix)
+- [Tailwind](#tailwind)
 - [Typescript](#typescript)
 
 ### CSS
@@ -64,6 +65,10 @@ The file with the "\_" prefix means, it is a work in progress.
 ### Remix
 
 - [Loading Data Using "loader" & "useLoaderData"](/remix/loading-data.md)
+
+### Tailwind
+
+- [Posible Cause Tailwind Don't Generate Selected Class on a Component](/tailwind/tailwind-do-not-generate-selected-class-on-a-component.md)
 
 ### Typescript
 
