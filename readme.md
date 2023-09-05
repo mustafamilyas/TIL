@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 21
+Current streak : 22
 
 ---
 
@@ -61,6 +61,7 @@ The file with the "\_" prefix means, it is a work in progress.
 ### React
 
 - [Get Component Props Type](/react/get-component-props-type.md)
+- [Render Props Pattern](/react/render-props-pattern.md)
 
 ### Remix
 
