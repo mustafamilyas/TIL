@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 22
+Current streak : 23
 
 ---
 
@@ -25,6 +25,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Remix](#remix)
 - [Tailwind](#tailwind)
 - [Typescript](#typescript)
+- [Web API](#web-api)
 
 ### CSS
 
@@ -79,3 +80,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Extending Multiple Interfaces or Types with Similar Attributes](/typescript/extending-multiple-interface-or-type-with-similar-attribute.md)
 - [Infer Keyword](/typescript/infer-keyword.md)
 - [Possible error causes when creating discriminated union type](/typescript/discriminated-union-type-error.md)
+
+### Web API
+
+- [Storage Event](/web-api/storage-event.md)
