@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 23
+Current streak : 24
 
 ---
 
@@ -21,6 +21,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [HTML](#html)
 - [NPM](#npm)
 - [Parcel](#parcel)
+- [Prettier](#prettier)
 - [React](#react)
 - [Remix](#remix)
 - [Tailwind](#tailwind)
@@ -58,6 +59,10 @@ The file with the "\_" prefix means, it is a work in progress.
 
 - [Configuring Separate Babel Configuration for Jest Environment](/parcel/setup-separate-babel-config-for-jest.md)
 - [Enabling Minification for Library Targets](/parcel/enable-minification-on-library-target.md)
+
+### Prettier
+
+- [Setup Auto Sort Import Statement on JS App](/prettier/auto-sort-import.md)
 
 ### React
 
