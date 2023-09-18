@@ -4,7 +4,7 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 24
+Current streak : 25
 
 ---
 
@@ -19,6 +19,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [D3.js](#d3js)
 - [Express](#express)
 - [HTML](#html)
+- [Javascript](#javascript)
 - [NPM](#npm)
 - [Parcel](#parcel)
 - [Prettier](#prettier)
@@ -50,6 +51,10 @@ The file with the "\_" prefix means, it is a work in progress.
 ### HTML
 
 - [Problem with Using the Anchor Tag's Download Attribute Across Different Origins](/html/can-t-use-anchor-tag-download-attribute-for-different-origin.md)
+
+### Javascript
+
+- [Set Insertion Order](/javascript/set-insertion-order.md)
 
 ### NPM
 
