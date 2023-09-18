@@ -25,3 +25,8 @@ console.log(Array.from(numberSet));
 ```
 
 This behavior also applies to `Map`, it allows you to be able deterministically do something based on the insertion order like an array but with the superpower of speedy lookups and keeping the values unique.
+
+### Further Reading
+
+- [Set - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+- [Why does JS keep insertion order in Set? - Stackoverflow](https://stackoverflow.com/questions/55460303/why-does-js-keep-insertion-order-in-set)
