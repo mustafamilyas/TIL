@@ -4,8 +4,6 @@ Gathering the insights I acquire each day. Personally, this serves as a memo for
 
 Feel free to explore my published articles [here](https://dev.to/mustafamilyas).
 
-Current streak : 25
-
 ---
 
 **Notes**:
@@ -59,6 +57,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 ### NPM
 
+- [Install Node Canvas on Mac](/npm/install-node-canvas-on-mac.md)
 - [Prevent Accidentally Publishing Private Repository](/npm/prevent-npm-to-publish-repository.md)
 
 ### Parcel
