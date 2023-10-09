@@ -19,6 +19,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [HTML](#html)
 - [Javascript](#javascript)
 - [NPM](#npm)
+- [Next.JS](#nextjs)
 - [Parcel](#parcel)
 - [Prettier](#prettier)
 - [React](#react)
@@ -54,6 +55,10 @@ The file with the "\_" prefix means, it is a work in progress.
 ### Javascript
 
 - [Set Insertion Order](/javascript/set-insertion-order.md)
+
+### Next.JS
+
+- [Fix Issue Module not found: Can't resolve '@swc/helpers/\_/\_interop_require_default'](/next/swc-helper-module-not-found.md)
 
 ### NPM
 
