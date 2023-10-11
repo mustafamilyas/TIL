@@ -31,6 +31,7 @@ The file with the "\_" prefix means, it is a work in progress.
 ### CSS
 
 - [Accent Color on Input](/css/accent-color-on-input.md)
+- [Backdrop Filter](/css/backdrop-filter.md)
 - [Flex and Auto Values in Grid Layout](/css/flex-and-auto-value-on-grid.md)
 - [Margin Collapse on Flex & Grid Elements](/css/margin-collapse-flex-grid.md)
 - [Overriding The Default Selection Behavior Using CSS](/css/overriding-the-default-selection-behavior-with-css.md)
