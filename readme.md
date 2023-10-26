@@ -95,6 +95,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Creating a Type with a Generic Return Type from a Generic Function](/typescript/create-type-generic-return-type.md)
 - [Difference between `interface` and `type`](/typescript/difference-of-interface-and-type.md)
 - [Extending Multiple Interfaces or Types with Similar Attributes](/typescript/extending-multiple-interface-or-type-with-similar-attribute.md)
+- [Get Argument Types of Constructor](/typescript/get-argument-types-of-generic-contructor.md)
 - [Infer Keyword](/typescript/infer-keyword.md)
 - [Possible error causes when creating discriminated union type](/typescript/discriminated-union-type-error.md)
 
