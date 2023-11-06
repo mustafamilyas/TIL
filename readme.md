@@ -67,6 +67,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 - [Install Node Canvas on Mac](/npm/install-node-canvas-on-mac.md)
 - [Prevent Accidentally Publishing Private Repository](/npm/prevent-npm-to-publish-repository.md)
+- [Run Script in Parallel](/npm/run-script-in-parallel.md)
 
 ### Parcel
 
@@ -102,7 +103,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 ### Vue
 
-- [Comparison between React and Vue](/vue/comparison-react-%26-vue.md)
+- [[IN PROGRESS] Comparison between React and Vue](/vue/comparison-react-%26-vue.md)
 
 ### Web API
 
