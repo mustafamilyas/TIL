@@ -1,4 +1,4 @@
-# Posible Cause Tailwind Don't Generate Selected Class on a Component
+# Possible Cause Tailwind Don't Generate Selected Class on a Component
 
 ### Problem
 

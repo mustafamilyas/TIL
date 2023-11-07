@@ -29,6 +29,8 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Vue](#vue)
 - [Web API](#web-api)
 
+---
+
 ### CSS
 
 - [Accent Color on Input](/css/accent-color-on-input.md)
@@ -90,7 +92,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 ### Tailwind
 
-- [Posible Cause Tailwind Don't Generate Selected Class on a Component](/tailwind/tailwind-do-not-generate-selected-class-on-a-component.md)
+- [Possible Cause Tailwind Don't Generate Selected Class on a Component](/tailwind/tailwind-do-not-generate-selected-class-on-a-component.md)
 
 ### Typescript
 
