@@ -23,7 +23,7 @@ $ node index.js
 foo
 ```
 
-This also apply to common js module.
+This also apply to common js module and dynamic import.
 
 ### Reference
 
