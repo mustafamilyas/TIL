@@ -40,6 +40,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Flex and Auto Values in Grid Layout](/css/flex-and-auto-value-on-grid.md)
 - [Margin Collapse on Flex & Grid Elements](/css/margin-collapse-flex-grid.md)
 - [Overriding The Default Selection Behavior Using CSS](/css/overriding-the-default-selection-behavior-with-css.md)
+- [Pattern on `:nth-` Pseudo Class](/css/nth-pseudo-class.md)
 - [Summary of Margin Collapse Cases](/css/summary-margin-collapse.md)
 - [SVG Paint Order](/css/svg-paint-order.md)
 - [Title Attribute Behavior](/css/title-attribute.md)
