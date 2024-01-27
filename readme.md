@@ -106,6 +106,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Get Argument Types of Constructor](/typescript/get-argument-types-of-generic-contructor.md)
 - [Infer Keyword](/typescript/infer-keyword.md)
 - [Possible error causes when creating discriminated union type](/typescript/discriminated-union-type-error.md)
+- [Understanding the "Infer" Keyword in String Literal Types](https://dev.to/mustafamilyas/understanding-the-infer-keyword-in-string-literal-types-gbh)
 
 ### Vue
 
