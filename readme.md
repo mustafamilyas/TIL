@@ -18,6 +18,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Express](#express)
 - [HTML](#html)
 - [Javascript](#javascript)
+- [Jest](#jest)
 - [NPM](#npm)
 - [Next.JS](#nextjs)
 - [Parcel](#parcel)
@@ -64,6 +65,10 @@ The file with the "\_" prefix means, it is a work in progress.
 
 - [Modules Caching](/javascript/modules-caching.md)
 - [Set Insertion Order](/javascript/set-insertion-order.md)
+
+### Jest
+
+- [Cannot find module '@testing-library/jest-dom/extend-expect' on 'jest.setup.js'](/jest/testing-library-jsdom-extend-expect.md)
 
 ### Next.JS
 

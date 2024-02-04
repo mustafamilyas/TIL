@@ -17,6 +17,7 @@ When you want to run multiple commands as npm script, sometimes you use `&` betw
 or if you want to make it even shorter, you can use the alias
 
 ```json
+{
   "scripts": {
     "start": "run-p start:server start:client",
     "start:server": "ts-node-dev --respawn --transpile-only src/server.ts",
