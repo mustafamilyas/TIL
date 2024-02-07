@@ -26,6 +26,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [React](#react)
 - [Remix](#remix)
 - [Tailwind](#tailwind)
+- [Terminal](#terminal)
 - [Typescript](#typescript)
 - [Vue](#vue)
 - [Web API](#web-api)
@@ -101,6 +102,10 @@ The file with the "\_" prefix means, it is a work in progress.
 ### Tailwind
 
 - [Possible Cause Tailwind Don't Generate Selected Class on a Component](/tailwind/tailwind-do-not-generate-selected-class-on-a-component.md)
+
+### Terminal
+
+- [Export command](/terminal/export.md)
 
 ### Typescript
 
