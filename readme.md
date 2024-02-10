@@ -66,6 +66,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 - [Modules Caching](/javascript/modules-caching.md)
 - [Set Insertion Order](/javascript/set-insertion-order.md)
+- [This Binding](/javascript/this-binding.md)
 
 ### Jest
 
