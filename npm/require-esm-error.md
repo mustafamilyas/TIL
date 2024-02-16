@@ -7,3 +7,7 @@ Error [ERR_REQUIRE_ESM]: require() of ES Module ...
 ```
 
 Current working solution is to remove `package-lock.json` and run `npm install` again. But this is not sustainable solution. I need to find a better solution for this.
+
+## References
+
+- [Similar issue on yargs repository](https://github.com/yarnpkg/yarn/issues/8994)
