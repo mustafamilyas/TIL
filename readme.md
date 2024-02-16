@@ -78,6 +78,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 ### NPM
 
+- [Error [ERR_REQUIRE_ESM]: require() of ES Module](/npm/require-esm-error.md)
 - [Install Node Canvas on Mac](/npm/install-node-canvas-on-mac.md)
 - [Prevent Accidentally Publishing Private Repository](/npm/prevent-npm-to-publish-repository.md)
 - [Run Script in Parallel](/npm/run-script-in-parallel.md)
