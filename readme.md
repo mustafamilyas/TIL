@@ -24,6 +24,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Parcel](#parcel)
 - [Prettier](#prettier)
 - [React](#react)
+- [Redux](#redux)
 - [Remix](#remix)
 - [Tailwind](#tailwind)
 - [Terminal](#terminal)
@@ -96,6 +97,10 @@ The file with the "\_" prefix means, it is a work in progress.
 
 - [Get Component Props Type](/react/get-component-props-type.md)
 - [Render Props Pattern](/react/render-props-pattern.md)
+
+### Redux
+
+- [Reactive Logic in React Redux Application](/redux/handling-side-effect-on-redux.md)
 
 ### Remix
 
