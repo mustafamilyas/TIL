@@ -22,6 +22,8 @@ module.exports = {
 
   // add below configs
 
+  plugins: ["@trivago/prettier-plugin-sort-imports"]
+
   // group and sort import using regex, third-party library will be shown on the top unless specified
   importOrder: ["^@core/(.*)$", "^@server/(.*)$", "^@ui/(.*)$", "^[./]"],
 
