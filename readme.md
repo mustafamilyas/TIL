@@ -38,6 +38,7 @@ The file with the "\_" prefix means, it is a work in progress.
 ### AG-Grid
 
 - [Makes All Columns Take Full Width](/ag-grid/makes-all-columns-takes-full-width.md)
+- [enableCellChangeFlash Issue](/ag-grid/enableCellChangeFlash-issue.md)
 
 ### CSS
 
