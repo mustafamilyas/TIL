@@ -50,7 +50,7 @@ export default function App() {
 }
 ```
 
-These are the observed behaviors:
+You can play around with this code [here](https://codesandbox.io/p/sandbox/crazy-wescoff-535v5g). These are the observed behaviors:
 
 1. if you press enter key on the input text, it will trigger the first submit button's click event and the form's submit event.
 2. if you click the submit button, it will trigger it's click event and the form's submit event.
