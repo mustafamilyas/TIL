@@ -68,6 +68,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 ### HTML
 
+- [Button Behavior on Submit Form](/html/button-behavior-on-submit-form.md)
 - [Problem with Using the Anchor Tag's Download Attribute Across Different Origins](/html/can-t-use-anchor-tag-download-attribute-for-different-origin.md)
 - [Content Editable Attribute](/html/contenteditable-attribute.md)
 
