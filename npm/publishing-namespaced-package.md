@@ -82,3 +82,5 @@ That's it! You have successfully published a package with a specific scope to np
 ### Reference
 
 - [Getting Error 402 while publishing package using npm | StackOverflow](https://stackoverflow.com/questions/41981686/getting-error-402-while-publishing-package-using-npm)
+- [Creating and publishing scoped public packages | NPMJS](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
+- [publishConfig | NPMJS](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#publishconfig)
