@@ -81,6 +81,7 @@ The file with the "\_" prefix means, it is a work in progress.
 ### Jest
 
 - [Cannot find module '@testing-library/jest-dom/extend-expect' on 'jest.setup.js'](/jest/testing-library-jsdom-extend-expect.md)
+- [Serving Coverage Static Files](/jest/serving-test-coverage-report.md)
 
 ### Next.JS
 
