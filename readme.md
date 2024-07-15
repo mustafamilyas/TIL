@@ -17,6 +17,7 @@ The file with the "\_" prefix means, it is a work in progress.
 - [CSS](#css)
 - [D3.js](#d3js)
 - [Express](#express)
+- [Go](#go)
 - [HTML](#html)
 - [Javascript](#javascript)
 - [Jest](#jest)
