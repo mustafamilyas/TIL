@@ -66,6 +66,11 @@ The file with the "\_" prefix means, it is a work in progress.
 - [Error: ERR_HTTP_HEADERS_SENT](/express/err-http-headers-sent.md)
 - [How middleware processed](/express/middleware-run-sequence.md)
 
+### Go
+
+- [Interfaces](/go/interfaces.md)
+- [Errors](/go/errors.md)
+
 ### HTML
 
 - [Button Behavior on Submit Form](/html/button-behavior-on-submit-form.md)
