@@ -71,6 +71,7 @@ The file with the "\_" prefix means, it is a work in progress.
 
 - [Interfaces](/go/interfaces.md)
 - [Errors](/go/errors.md)
+- [Variadic Function & Spread Operator](/go/variadic-function.md)
 
 ### HTML
 
