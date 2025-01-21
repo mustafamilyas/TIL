@@ -136,6 +136,7 @@ The file with the "\_" prefix means, it is a work in progress.
 ### Terminal
 
 - [Export command](/terminal/export.md)
+- [Environment Variable Order](/terminal/environment-variable-order.md)
 
 ### Typescript
 
